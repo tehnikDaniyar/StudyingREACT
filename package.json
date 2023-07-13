@@ -4,14 +4,14 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tehnikDaniyar/StudyingREACT.git"
+		"url": "git+https://github.com/tehnikDaniyar/studying_react.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/tehnikDaniyar/StudyingREACT/issues"
+		"url": "https://github.com/tehnikDaniyar/studying_react/issues"
 	},
-	"homepage": "https://github.com/tehnikDaniyar/StudyingREACT#readme",
+	"homepage": "https://github.com/tehnikDaniyar/studying_react#readme",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
